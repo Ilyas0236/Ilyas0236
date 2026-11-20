@@ -170,16 +170,6 @@ Après un parcours d'excellence en **Classes Préparatoires aux Grandes Écoles 
 
 ---
 
-## 🎓 Formation & Parcours Académique
-
-| Période | Établissement | Cursus |
-| :--- | :--- | :--- |
-| **2023 – Présent** | **EMSI Casablanca** | **5e Année Ingénierie Informatique** — Développement Digital & Systèmes d'Information |
-| **2020 – 2022** | **CPGE Mohammed V (Casablanca)** | **Classes Préparatoires aux Grandes Écoles** — Filière MP (Mathématiques & Physique) |
-| **2020** | **École Assafir (Casablanca)** | **Baccalauréat Sciences Mathématiques** — *Mention Très Bien* |
-
----
-
 ## 📊 Statistiques GitHub
 
 <div align="center">
