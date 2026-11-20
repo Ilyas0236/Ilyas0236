@@ -10,7 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilyas_Ait_Maina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilyas-ait-maina-b5998b1b4)
 [![Email](https://img.shields.io/badge/Email-ilyasaitmaina@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilyasaitmaina@gmail.com)
-[![Téléphone](https://img.shields.io/badge/Téléphone-+212_619766224-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212619766224)
 [![Localisation](https://img.shields.io/badge/Casablanca,_Maroc-📍-success?style=for-the-badge)](#)
 
 </div>
@@ -202,6 +201,5 @@ N'hésitez pas à me contacter directement !
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Me_Contacter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilyas-ait-maina-b5998b1b4)
 [![Email](https://img.shields.io/badge/Email-ilyasaitmaina@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilyasaitmaina@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+212_619766224-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212619766224)
 
 </div>
